@@ -20,16 +20,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
@@ -61,15 +51,15 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Cortez Cloud. All rights reserved. Visit me at <a href=\"https://cortez.cloud\" target=\"_blank\" rel=\"noopener\">Cortez Cloud - Breaking the Cloud</a>.",
         "links": [
             {
-                "label": "Generated from DEV",
-                "url": "https://dev.to/connecting-with-stackbit",
+                "label": "Dev.to Blog by Carlos Cortez",
+                "url": "https://dev.to/ccortezb",
                 "new_window": true,
                 "style": "link"
             }
         ]
     },
-    "title": "Stackbit Fresh Theme"
+    "title": "Breaking the Cloud Style"
 }

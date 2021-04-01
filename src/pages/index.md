@@ -4,18 +4,14 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I'm Carlos Cortez from Breaking the Cloud.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I'm Carlos Cortez 🇵🇪 from Lima, Perú, 🇵🇪 Founder of AWS UG Peru ☁️ Founder & CTO of CENNTI Cloud. Certified 7+ years of experience in AWS, 🎧 Imperio Cloud Podcast Host
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Founder of AWS UG Perú official community. Certified With 7+ years of experience in AWS, Educating people in Cloud computing is my passion so I’m creating different ways to enhance cloud skills and have fun at the same time in Perú. Host of my own Podcast Imperio Cloud and DeepFridays for AI Learning video series. I’m a System Engineer and Data Analytics Certified at MIT Sloan Global Program in Boston. Selected to be part of AWS Community Builder for ML. Founder of CENNTI Cloud to help peruvian companies in their difficult journey to the cloud and developing ML/AI solutions to fight COVID-19 and health related applications. Now Working as Senior Cloud Architect at DB Solutions in Chile.
     actions:
       - label: Contact Me
         url: /contact

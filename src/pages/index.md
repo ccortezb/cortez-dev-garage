@@ -5,13 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I'm Carlos Cortez from Breaking the Cloud.'
-    content: >-
-      I'm Carlos Cortez 🇵🇪 from Lima, Perú, 🇵🇪 Founder of AWS UG Peru ☁️ Founder & CTO of CENNTI Cloud. Certified 7+ years of experience in AWS, 🎧 Imperio Cloud Podcast Host
+    content: I'm Carlos Cortez 🇵🇪 from Lima, Perú, 🇵🇪 Founder of AWS UG Peru ☁️ Founder & CTO of CENNTI Cloud. Certified 7+ years of experience in AWS, 🎧 Imperio Cloud Podcast Host
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      Founder of AWS UG Perú official community. Certified With 7+ years of experience in AWS, Educating people in Cloud computing is my passion so I’m creating different ways to enhance cloud skills and have fun at the same time in Perú. Host of my own Podcast Imperio Cloud and DeepFridays for AI Learning video series. I’m a System Engineer and Data Analytics Certified at MIT Sloan Global Program in Boston. Selected to be part of AWS Community Builder for ML. Founder of CENNTI Cloud to help peruvian companies in their difficult journey to the cloud and developing ML/AI solutions to fight COVID-19 and health related applications. Now Working as Senior Cloud Architect at DB Solutions in Chile.
+    content: Founder of AWS UG Perú official community. Certified With 7+ years of experience in AWS, Educating people in Cloud computing is my passion so I’m creating different ways to enhance cloud skills and have fun at the same time in Perú. Host of my own Podcast Imperio Cloud and DeepFridays for AI Learning video series. I’m a System Engineer and Data Analytics Certified at MIT Sloan Global Program in Boston. Selected to be part of AWS Community Builder for ML. Founder of CENNTI Cloud to help peruvian companies in their difficult journey to the cloud and developing ML/AI solutions to fight COVID-19 and health related applications. Now Working as Senior Cloud Architect at DB Solutions in Chile.
     actions:
       - label: Contact Me
         url: /contact
